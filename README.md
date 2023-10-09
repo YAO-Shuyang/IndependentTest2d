@@ -4,7 +4,7 @@ To test whether two continuous variables (observations) are independent or not.
 Based on a [``R script documentation``](https://search.r-project.org/CRAN/refmans/robusTest/html/indeptest.html), according to the author's understanding.
 Paper: [``Distribution Free Tests of Independence Based on the Sample Distribution Function. J. R. Blum, J. Kiefer and M. Rosenblatt, 1961.``](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-32/issue-2/Distribution-Free-Tests-of-Independence-Based-on-the-Sample-Distribution/10.1214/aoms/1177705055.full)
 
-[Basic principle:](https://github.com/YAO-Shuyang/IndependentTest2d/blob/main/illustration1.png)
+![Basic principle:](https://github.com/YAO-Shuyang/IndependentTest2d/blob/main/illustration1.png)
 
 We provide two method for providing a standard comparison: "monta-carlo" and "permutation".
 
